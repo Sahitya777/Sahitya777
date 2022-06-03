@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://sahitya-nijhawan-cf693.web.app/](https://sahitya-nijhawan-cf693.web.app/)
+- 👨‍💻 All of my projects are available at [https://sahityanijhawan.vercel.app//](https://sahityanijhawan.vercel.app/)
 
 - 💬 Ask me about **React, Android**
 
