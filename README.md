@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [https://sahityanijhawan.vercel.app//](https://sahityanijhawan.vercel.app/)
 
--📝 I regularly write blogs on https://medium.com/@sahityanijhawan
+- 📝 I regularly write blogs on https://medium.com/@sahityanijhawan
 
--🏆 Solved 110+ Questions on Leetcode
+- 🏆 Solved 110+ Questions on Leetcode
 
 - 💬 Ask me about **React, Android**
 
