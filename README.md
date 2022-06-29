@@ -18,7 +18,9 @@
 
 - 📝 I regularly write blogs on https://medium.com/@sahityanijhawan
 
-- 🏆 Solved 125+ Questions on Leetcode
+- 🏆 Solved 130+ Questions on Leetcode
+
+- Visit my leetcode profile on https://leetcode.com/sahityanijhawan/
 
 - 💬 Ask me about **React, Android**
 
