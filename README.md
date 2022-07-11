@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **React Native Apps**
 
-- 🌱 I’m currently learning **React,Next**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Github**
 
