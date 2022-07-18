@@ -18,7 +18,7 @@
 
 - 📝 I regularly write blogs on https://medium.com/@sahityanijhawan
 
-- 🏆 Solved 150+ Questions on Leetcode
+- 🏆 Solved 155+ Questions on Leetcode
 
 - Visit my leetcode profile on https://leetcode.com/sahityanijhawan/
 
