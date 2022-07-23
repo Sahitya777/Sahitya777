@@ -22,7 +22,7 @@
 
 - Visit my leetcode profile on https://leetcode.com/sahityanijhawan/
 
-- 💬 Ask me about **React, Android**
+- 💬 Ask me about **React, Android, Smart Contracts**
 
 - 📫 How to reach me **sahityanijhawan@gmail.com**
 
