@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **BlockChain Apps**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity,Web3**
 
 - 👯 I’m looking to collaborate on **Github**
 
