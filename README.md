@@ -20,7 +20,7 @@
 
 - 🏆 Solved 190+ Questions on Leetcode
 
-- Ranked 8th on GFG among 1000+ Registered Students from Bennett University
+- 🏆 Institute Rank <= 10 among 1000+ CollegeMates on GFG
 
 - ⚡ Geeksforgeeks Profile - https://auth.geeksforgeeks.org/user/e20cs80re/practice
 
