@@ -22,7 +22,7 @@
 
 - Ranked 8th on GFG among 1000+ Registered Students from Bennett University
 
--⚡ Geeksforgeeks Profile - https://auth.geeksforgeeks.org/user/e20cs80re/practice
+- ⚡ Geeksforgeeks Profile - https://auth.geeksforgeeks.org/user/e20cs80re/practice
 
 - Visit my leetcode profile on https://leetcode.com/sahityanijhawan/
 
