@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sahi02255221" target="blank"><img src="https://img.shields.io/twitter/follow/sahi02255221?logo=twitter&style=for-the-badge" alt="sahi02255221" /></a> </p>
 
-- 🔭 I’m currently working on **FullStack Apps**
+- 🔭 I’m currently working on **BLockChain Apps**
 
-- 🌱 I’m currently learning **Solidity,Web3,Three js**
+- 🌱 I’m currently learning **Solidity,Docker,AWS**
 
 - 👯 I’m looking to collaborate on **Github**
 
