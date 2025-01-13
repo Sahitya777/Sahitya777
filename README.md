@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Solidity,Docker,AWS**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on **Github, Linkedin and Telegram**
 
 - 👨‍💻 All of my projects are available at [https://sahityanijhawan.vercel.app//](https://sahityanijhawan.vercel.app/)
 
